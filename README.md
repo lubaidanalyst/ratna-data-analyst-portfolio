@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# Ecommerce Dashboard ✨
 
 ## Setup environment
 ```
